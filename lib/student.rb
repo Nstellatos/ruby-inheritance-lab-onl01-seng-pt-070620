@@ -1,6 +1,4 @@
 class Student < User 
-def initialize(knowledge)
-  @knowledge = knowledge
-  @knowledge << []
+@knowlege = []
 end
 end
